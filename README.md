@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola 👋
 
 <!--
 **jealcalat/jealcalat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Soy doctor en Ciencias del Comportamiento, pero me interesa todo lo que caiga en la intersección de las ciencias cognitivas, psicología experimental y la estadística, aunque normalmente me encuentro en las periferias de esas áreas. Eventualmente, hago repositorios acá para albergar código de los artículos que publico. No puedo garantizar el buen funcionamiento de nada.
+
+Actualmente profe en [ITESO](https://www.iteso.mx/).
