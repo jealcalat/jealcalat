@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 Soy doctor en Ciencias del Comportamiento, pero me interesa todo lo que caiga en la intersección de las ciencias cognitivas, psicología experimental y la estadística, aunque normalmente me encuentro en las periferias de esas áreas. Eventualmente, hago repositorios acá para albergar código de los artículos que publico. No puedo garantizar el buen funcionamiento de nada.
 
 Actualmente profe en [ITESO](https://www.iteso.mx/).
+
+Mi se puede consultar aquí [Curriculum Vitae](https://github.com/jealcalat/CV/blob/main/CV_Emmanuel_Alcal%C3%A1.pdf).
