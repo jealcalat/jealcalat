@@ -19,4 +19,4 @@ Soy doctor en Ciencias del Comportamiento, pero me interesa todo lo que caiga en
 
 Actualmente profe en [ITESO](https://www.iteso.mx/).
 
-Mi se puede consultar aquí [Curriculum Vitae](https://github.com/jealcalat/CV/blob/main/CV_Emmanuel_Alcal%C3%A1.pdf).
+Mi Curriculum Vitae se puede consultar [aquí](https://github.com/jealcalat/CV/blob/main/CV_Emmanuel_Alcal%C3%A1.pdf).
